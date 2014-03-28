@@ -24,7 +24,7 @@ You have started a project that requires several pieces of wood of different len
 
 ###Simple Algorithm###
 - Pick a target board size
-- Repeat until all desired cut lengths have been considered
+- Repeat until all desired cut lengths have been considered:
 	- Add desired cut lengths to an existing board with enough free space remaining
 	- If no board exists, create a new board and add to that board
 - Output number of boards and where to make cuts on them
